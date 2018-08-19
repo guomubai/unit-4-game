@@ -1,0 +1,74 @@
+.jumbotron-fluid {
+	text-align: center;
+	height: 250px;
+}
+
+.crystal-image {
+	width: 150px;
+	height: 200px;
+}
+
+.panel-title {
+	text-align: center;
+}
+
+.panel-body {
+	text-align: center;
+}
+
+body, html {
+	height: 100%;
+}
+
+.bg { 
+	/* The image used */
+	background-image: url("../images/wallpaper_timemachine.jpg");
+
+	/* Full height */
+	height: 100%; 
+
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.row {
+	padding-bottom: 20px;
+	align-content: center;
+}
+
+.col-3 {
+	align-content: center;
+} 
+
+.card-img-top {
+	height: 215px;
+	
+	align-content: center;
+	
+}
+
+.card-title {
+	text-align: center;
+}
+
+.card-text {
+	text-align: center;
+	font-size: 24px;
+}
+
+.display-4 {
+	font-family: 'Pacifico', cursive;
+}
+
+.lead {
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+}
+
+body {
+	background-image: url(../images/wallpaper_timemachine.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+}
