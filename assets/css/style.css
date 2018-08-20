@@ -23,6 +23,7 @@ body, html {
 .row {
 	padding-bottom: 20px;
 	align-content: center;
+	margin-left: 60px;
 }
 
 .col-3 {
